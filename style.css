@@ -1,0 +1,27 @@
+.propic{
+	width:150px;
+	border-radius: 10px;
+}
+
+.card{
+	padding:20px;
+	display:flex;
+	justify-content: space-around;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background: #ddebf8;
+	color: #2b2839;
+	border-bottom: 5px solid #d8cefe ;
+	box-shadow: 0 2px 4px 0 #333333, 0 3px 10px 0 #333332;
+}
+
+h3{
+
+}
+
+body{
+	margin:20px;
+	font-family: Verdana;
+}
